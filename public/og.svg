@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#00FF88"/>
+    </linearGradient>
+    <radialGradient id="rg" cx="50%" cy="-20%" r="80%">
+      <stop offset="0%" stop-color="#4FC3F7" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#070B10"/>
+  <rect width="1200" height="630" fill="url(#rg)"/>
+  <g opacity="0.08" stroke="#fff" stroke-width="1">
+    <!-- grid -->
+    <g>
+      <!-- vertical -->
+      <path d="M50 0 V630"/>
+      <path d="M100 0 V630"/>
+      <path d="M150 0 V630"/>
+      <path d="M200 0 V630"/>
+      <path d="M250 0 V630"/>
+      <path d="M300 0 V630"/>
+      <path d="M350 0 V630"/>
+      <path d="M400 0 V630"/>
+      <path d="M450 0 V630"/>
+      <path d="M500 0 V630"/>
+      <path d="M550 0 V630"/>
+      <path d="M600 0 V630"/>
+      <path d="M650 0 V630"/>
+      <path d="M700 0 V630"/>
+      <path d="M750 0 V630"/>
+      <path d="M800 0 V630"/>
+      <path d="M850 0 V630"/>
+      <path d="M900 0 V630"/>
+      <path d="M950 0 V630"/>
+      <path d="M1000 0 V630"/>
+      <path d="M1050 0 V630"/>
+      <path d="M1100 0 V630"/>
+    </g>
+    <g>
+      <!-- horizontal -->
+      <path d="M0 30 H1200"/>
+      <path d="M0 80 H1200"/>
+      <path d="M0 130 H1200"/>
+      <path d="M0 180 H1200"/>
+      <path d="M0 230 H1200"/>
+      <path d="M0 280 H1200"/>
+      <path d="M0 330 H1200"/>
+      <path d="M0 380 H1200"/>
+      <path d="M0 430 H1200"/>
+      <path d="M0 480 H1200"/>
+      <path d="M0 530 H1200"/>
+      <path d="M0 580 H1200"/>
+    </g>
+  </g>
+  <!-- title -->
+  <text x="80" y="280" fill="#E6F0FF" font-family="sans-serif" font-size="56" font-weight="700">TOMASZ W?ADYS?AW <tspan fill="url(#g)">BARCZYK</tspan></text>
+  <text x="80" y="330" fill="#A8C4FF" font-family="sans-serif" font-size="26">CEO ?WIAT?A | ARCHITEKT STRATEGICZNEJ DYWERSYFIKACJI</text>
+</svg>
